@@ -1,0 +1,15 @@
+C:\Users\nhnah\RiderProjects\Mandatory1\Mandatory1\Mandatory 1\bin\Debug\net7.0\Mandatory 1.exe
+C:\Users\nhnah\RiderProjects\Mandatory1\Mandatory1\Mandatory 1\bin\Debug\net7.0\Mandatory 1.deps.json
+C:\Users\nhnah\RiderProjects\Mandatory1\Mandatory1\Mandatory 1\bin\Debug\net7.0\Mandatory 1.runtimeconfig.json
+C:\Users\nhnah\RiderProjects\Mandatory1\Mandatory1\Mandatory 1\bin\Debug\net7.0\Mandatory 1.dll
+C:\Users\nhnah\RiderProjects\Mandatory1\Mandatory1\Mandatory 1\bin\Debug\net7.0\Mandatory 1.pdb
+C:\Users\nhnah\RiderProjects\Mandatory1\Mandatory1\Mandatory 1\obj\Debug\net7.0\Mandatory 1.csproj.AssemblyReference.cache
+C:\Users\nhnah\RiderProjects\Mandatory1\Mandatory1\Mandatory 1\obj\Debug\net7.0\Mandatory 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhnah\RiderProjects\Mandatory1\Mandatory1\Mandatory 1\obj\Debug\net7.0\Mandatory 1.AssemblyInfoInputs.cache
+C:\Users\nhnah\RiderProjects\Mandatory1\Mandatory1\Mandatory 1\obj\Debug\net7.0\Mandatory 1.AssemblyInfo.cs
+C:\Users\nhnah\RiderProjects\Mandatory1\Mandatory1\Mandatory 1\obj\Debug\net7.0\Mandatory 1.csproj.CoreCompileInputs.cache
+C:\Users\nhnah\RiderProjects\Mandatory1\Mandatory1\Mandatory 1\obj\Debug\net7.0\Mandatory 1.dll
+C:\Users\nhnah\RiderProjects\Mandatory1\Mandatory1\Mandatory 1\obj\Debug\net7.0\refint\Mandatory 1.dll
+C:\Users\nhnah\RiderProjects\Mandatory1\Mandatory1\Mandatory 1\obj\Debug\net7.0\Mandatory 1.pdb
+C:\Users\nhnah\RiderProjects\Mandatory1\Mandatory1\Mandatory 1\obj\Debug\net7.0\Mandatory 1.genruntimeconfig.cache
+C:\Users\nhnah\RiderProjects\Mandatory1\Mandatory1\Mandatory 1\obj\Debug\net7.0\ref\Mandatory 1.dll
